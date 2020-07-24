@@ -1,0 +1,1 @@
+x = numpy.add(a, b); x = numpy.add(x, c)
